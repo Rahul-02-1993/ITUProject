@@ -1,2 +1,2 @@
-#l/bin/sh
+#!/bin/sh
 echo "first line of jenkins code"
